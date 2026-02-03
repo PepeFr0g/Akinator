@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leone\\source\\repos\\Akinator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|c:\\users\\leone\\source\\repos\\akinator\\akinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\dbloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\dbloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\filename.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\backup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\backup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\engine2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\engine2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|C:\\Users\\leone\\source\\repos\\Akinator\\akinator\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B00379-43E5-46D8-8A7A-36D1826B6BD2}|Akinator\\Akinator.csproj|solutionrelative:akinator\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine2.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Engine2.cs",
+              "RelativeDocumentMoniker": "Akinator\\Engine2.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Engine2.cs",
+              "RelativeToolTip": "Akinator\\Engine2.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAqwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:41:08.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerAction.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\PlayerAction.cs",
+              "RelativeDocumentMoniker": "Akinator\\PlayerAction.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\PlayerAction.cs",
+              "RelativeToolTip": "Akinator\\PlayerAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:05:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Enum.cs",
+              "RelativeDocumentMoniker": "Akinator\\Enum.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Enum.cs",
+              "RelativeToolTip": "Akinator\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T05:00:53.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBLoader.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\DBLoader.cs",
+              "RelativeDocumentMoniker": "Akinator\\DBLoader.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\DBLoader.cs",
+              "RelativeToolTip": "Akinator\\DBLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:38:46.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Character.cs",
+              "RelativeDocumentMoniker": "Akinator\\Character.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Character.cs",
+              "RelativeToolTip": "Akinator\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:36:05.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Engine.cs",
+              "RelativeDocumentMoniker": "Akinator\\Engine.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Engine.cs",
+              "RelativeToolTip": "Akinator\\Engine.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAlwFgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:26:09.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Answer.cs",
+              "RelativeDocumentMoniker": "Akinator\\Answer.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Answer.cs",
+              "RelativeToolTip": "Akinator\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:36:45.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Program.cs",
+              "RelativeDocumentMoniker": "Akinator\\Program.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Program.cs",
+              "RelativeToolTip": "Akinator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T12:33:54.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Question.cs",
+              "RelativeDocumentMoniker": "Akinator\\Question.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Question.cs",
+              "RelativeToolTip": "Akinator\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T18:36:33.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backup1.cs",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Backup1.cs",
+              "RelativeDocumentMoniker": "Akinator\\Backup1.cs",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\Backup1.cs",
+              "RelativeToolTip": "Akinator\\Backup1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T19:14:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileName.txt",
+              "DocumentMoniker": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\FileName.txt",
+              "RelativeDocumentMoniker": "Akinator\\FileName.txt",
+              "ToolTip": "C:\\Users\\leone\\source\\repos\\Akinator\\Akinator\\FileName.txt",
+              "RelativeToolTip": "Akinator\\FileName.txt",
+              "ViewState": "AgIAAAgBAAAAAAAAAADwvzQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-14T19:14:57.299Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
